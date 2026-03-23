@@ -1,0 +1,1080 @@
+{
+  "meta": {
+    "generatedAt": "2026-03-22T20:44:25.613Z",
+    "participantRepo": "shimaf4979/web-speed-hackathon-2026",
+    "scoringIssue": "https://github.com/CyberAgentHack/web-speed-hackathon-2026-scoring/issues/74",
+    "window": {
+      "timezone": "Asia/Tokyo",
+      "label": "1 日目 10:00 〜 2 日目 18:30 (JST)",
+      "since": "2026-03-20T10:00:00+09:00",
+      "until": "2026-03-21T18:30:00+09:00"
+    },
+    "note": "各コミットの scoreContext / rankContext は、そのコミット時刻以前に記録された最新の採点結果です（デプロイ反映タイムラグは含みません）。"
+  },
+  "measurements": [
+    {
+      "at": "2026-03-20T07:54:35Z",
+      "score": 228.8,
+      "rank": 56,
+      "url": "https://github.com/CyberAgentHack/web-speed-hackathon-2026-scoring/issues/74#issuecomment-4096366751"
+    },
+    {
+      "at": "2026-03-20T08:47:19Z",
+      "score": 665.05,
+      "rank": 1,
+      "url": "https://github.com/CyberAgentHack/web-speed-hackathon-2026-scoring/issues/74#issuecomment-4096638489"
+    },
+    {
+      "at": "2026-03-20T09:46:50Z",
+      "score": 640.5,
+      "rank": 6,
+      "url": "https://github.com/CyberAgentHack/web-speed-hackathon-2026-scoring/issues/74#issuecomment-4096895682"
+    },
+    {
+      "at": "2026-03-20T15:01:17Z",
+      "score": 805.95,
+      "rank": 1,
+      "url": "https://github.com/CyberAgentHack/web-speed-hackathon-2026-scoring/issues/74#issuecomment-4098742290"
+    },
+    {
+      "at": "2026-03-20T16:27:07Z",
+      "score": 802.55,
+      "rank": 1,
+      "url": "https://github.com/CyberAgentHack/web-speed-hackathon-2026-scoring/issues/74#issuecomment-4099398399"
+    },
+    {
+      "at": "2026-03-20T17:22:15Z",
+      "score": 921.35,
+      "rank": 1,
+      "url": "https://github.com/CyberAgentHack/web-speed-hackathon-2026-scoring/issues/74#issuecomment-4099726013"
+    },
+    {
+      "at": "2026-03-20T21:17:56Z",
+      "score": 880.4,
+      "rank": 3,
+      "url": "https://github.com/CyberAgentHack/web-speed-hackathon-2026-scoring/issues/74#issuecomment-4101007875"
+    },
+    {
+      "at": "2026-03-20T21:28:36Z",
+      "score": 902.1,
+      "rank": 2,
+      "url": "https://github.com/CyberAgentHack/web-speed-hackathon-2026-scoring/issues/74#issuecomment-4101051529"
+    },
+    {
+      "at": "2026-03-21T04:33:13Z",
+      "score": 889.1,
+      "rank": 3,
+      "url": "https://github.com/CyberAgentHack/web-speed-hackathon-2026-scoring/issues/74#issuecomment-4102240668"
+    },
+    {
+      "at": "2026-03-21T05:01:23Z",
+      "score": 798.45,
+      "rank": 17,
+      "url": "https://github.com/CyberAgentHack/web-speed-hackathon-2026-scoring/issues/74#issuecomment-4102292257"
+    },
+    {
+      "at": "2026-03-21T06:28:34Z",
+      "score": 844.85,
+      "rank": 13,
+      "url": "https://github.com/CyberAgentHack/web-speed-hackathon-2026-scoring/issues/74#issuecomment-4102458636"
+    },
+    {
+      "at": "2026-03-21T08:55:20Z",
+      "score": 892.85,
+      "rank": 9,
+      "url": "https://github.com/CyberAgentHack/web-speed-hackathon-2026-scoring/issues/74#issuecomment-4102872481"
+    }
+  ],
+  "commits": [
+    {
+      "at": "2026-03-20T01:48:57Z",
+      "sha": "ba03309",
+      "fullSha": "ba03309485be303b46210c4acb2382cf54f3fc21",
+      "subject": "環境を整備",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/ba03309485be303b46210c4acb2382cf54f3fc21",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T01:50:46Z",
+      "sha": "adf8990",
+      "fullSha": "adf899046de2910ad0030aa425c6667c0d413883",
+      "subject": "ci: switch to pull_request_target for deployments from forked repositories",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/adf899046de2910ad0030aa425c6667c0d413883",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T01:52:16Z",
+      "sha": "14d4812",
+      "fullSha": "14d4812dbe69176e16f2c3d4b77db177346bd0e3",
+      "subject": "Merge pull request #22 from CyberAgentHack/sor4chi/cd-fix-1",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/14d4812dbe69176e16f2c3d4b77db177346bd0e3",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T02:27:05Z",
+      "sha": "4daabdc",
+      "fullSha": "4daabdc73f7d78649bca395f770abc630576c497",
+      "subject": "webpack を本番ビルド設定に戻す",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/4daabdc73f7d78649bca395f770abc630576c497",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T02:27:17Z",
+      "sha": "1fd023b",
+      "fullSha": "1fd023b9cd84e0078fff416bc6e719152488f6af",
+      "subject": "重い機能依存を遅延 import に寄せる",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/1fd023b9cd84e0078fff416bc6e719152488f6af",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T02:29:15Z",
+      "sha": "c418d9b",
+      "fullSha": "c418d9ba5fc2dfded99682044d5b273613993c4d",
+      "subject": "Merge remote-tracking branch 'upstream/main'",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/c418d9ba5fc2dfded99682044d5b273613993c4d",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T03:45:34Z",
+      "sha": "8466d34",
+      "fullSha": "8466d34e9857f972d61f1cb510c11a6758cc9c08",
+      "subject": "fix key update and add compress_asset",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/8466d34e9857f972d61f1cb510c11a6758cc9c08",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T04:16:42Z",
+      "sha": "644f136",
+      "fullSha": "644f1369211e763d7b547244a8f4a51109229176",
+      "subject": "remove redux,redux-form",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/644f1369211e763d7b547244a8f4a51109229176",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T04:18:35Z",
+      "sha": "1765173",
+      "fullSha": "17651736e7f5a81d15f35136760c0d476c5aaf07",
+      "subject": "Optimize audio assets and upload encoding",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/17651736e7f5a81d15f35136760c0d476c5aaf07",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T04:19:36Z",
+      "sha": "261b316",
+      "fullSha": "261b31699a1c70c34f76986ff3fdede529d32481",
+      "subject": "Convert local fonts to WOFF2 subsets",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/261b31699a1c70c34f76986ff3fdede529d32481",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T04:23:45Z",
+      "sha": "c9a3243",
+      "fullSha": "c9a3243ffd6fb71c20280ab5fb17776ea0a35176",
+      "subject": "Cache and lazy-load dictionary tokenizers",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/c9a3243ffd6fb71c20280ab5fb17776ea0a35176",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T04:25:41Z",
+      "sha": "5b8df95",
+      "fullSha": "5b8df950e119514788e6487bd3a668e88defdabc",
+      "subject": "refactor: typecheck of redux",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/5b8df950e119514788e6487bd3a668e88defdabc",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T04:39:30Z",
+      "sha": "b3b012a",
+      "fullSha": "b3b012acfae3ee56eb1826bd9415a425a304e99e",
+      "subject": "changed sse token speed",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/b3b012acfae3ee56eb1826bd9415a425a304e99e",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T04:49:16Z",
+      "sha": "b7ad252",
+      "fullSha": "b7ad2520dc3881290895b03feb0efaee5a1c3594",
+      "subject": "Move Tailwind runtime to build-time CSS",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/b7ad2520dc3881290895b03feb0efaee5a1c3594",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T04:52:46Z",
+      "sha": "7ed1347",
+      "fullSha": "7ed13478d95ca8dee5195af967b6b6f37bb23e7f",
+      "subject": "coverd imageの一部をサーバー側に、imgをそのまま使う",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/7ed13478d95ca8dee5195af967b6b6f37bb23e7f",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T04:53:14Z",
+      "sha": "ee236bb",
+      "fullSha": "ee236bbeb08ab60d5b30be723d57028a9c175297",
+      "subject": "fetchを初期取得はクライアントで指定だれた個数のみ",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/ee236bbeb08ab60d5b30be723d57028a9c175297",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T05:00:13Z",
+      "sha": "6899f76",
+      "fullSha": "6899f7658c5766f4f1b84c50245fe1672974b131",
+      "subject": "Enable response compression",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/6899f7658c5766f4f1b84c50245fe1672974b131",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T05:10:36Z",
+      "sha": "2c24131",
+      "fullSha": "2c2413139421c221d94fab91696917c4598b7eaf",
+      "subject": "初期取得のミスを修正",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/2c2413139421c221d94fab91696917c4598b7eaf",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T05:11:08Z",
+      "sha": "abf5c56",
+      "fullSha": "abf5c56c874dad4bb49248a0dfd2656e8ec06373",
+      "subject": "無駄なビルドスクリプトを消去",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/abf5c56c874dad4bb49248a0dfd2656e8ec06373",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T05:33:30Z",
+      "sha": "6662246",
+      "fullSha": "6662246f8d7ad53eedf0b842c297683841ce9bde",
+      "subject": "静的キャッシュ",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/6662246f8d7ad53eedf0b842c297683841ce9bde",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T05:37:33Z",
+      "sha": "872959c",
+      "fullSha": "872959c299cb5ecd1b67a03881ee33311e30f1e1",
+      "subject": "indexをはる(sqliteの更新は後で)",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/872959c299cb5ecd1b67a03881ee33311e30f1e1",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T06:13:25Z",
+      "sha": "228a9d6",
+      "fullSha": "228a9d66c6fb459834ab42d2c2143e83659369cc",
+      "subject": "fix: canvas to video",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/228a9d66c6fb459834ab42d2c2143e83659369cc",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T06:16:16Z",
+      "sha": "d56f424",
+      "fullSha": "d56f42422de9023463dd1e21277ca06d89170bbb",
+      "subject": "feat: babel-loader を swc-loader に置き換えてビルドを高速化",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/d56f42422de9023463dd1e21277ca06d89170bbb",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T06:17:12Z",
+      "sha": "4d31d40",
+      "fullSha": "4d31d40619a46eb98cf5b91f94e1c3fe4157288d",
+      "subject": "Replace moment with Intl formatters",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/4d31d40619a46eb98cf5b91f94e1c3fe4157288d",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T06:21:39Z",
+      "sha": "ee29ade",
+      "fullSha": "ee29ade64705488e511c41262550731c4bf7d6f2",
+      "subject": "feat: webpack を Rspack に移行してビルドを高速化",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/ee29ade64705488e511c41262550731c4bf7d6f2",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T06:24:14Z",
+      "sha": "445a505",
+      "fullSha": "445a50523bfbe49f212874ce42e29dc7209ba062",
+      "subject": "change test for webp",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/445a50523bfbe49f212874ce42e29dc7209ba062",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T06:45:37Z",
+      "sha": "2bfca99",
+      "fullSha": "2bfca9981e127e7f9929c5f687fced0b705593c7",
+      "subject": "inline font awesome icons",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/2bfca9981e127e7f9929c5f687fced0b705593c7",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T06:54:03Z",
+      "sha": "cd963ab",
+      "fullSha": "cd963ab4c535ddc17c60ef51ec52fa1703c53e38",
+      "subject": "replace jquery fetchers with fetch",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/cd963ab4c535ddc17c60ef51ec52fa1703c53e38",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T06:56:02Z",
+      "sha": "ae070e4",
+      "fullSha": "ae070e40cc80a93f91f9b6ae0c55d16add11bc7b",
+      "subject": "feat: メディア変換をクライアントからサーバーに移行",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/ae070e40cc80a93f91f9b6ae0c55d16add11bc7b",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T07:03:04Z",
+      "sha": "fb41e8b",
+      "fullSha": "fb41e8b0d9150e3a4e10d41686f1f5a969ee339a",
+      "subject": "Optimize client mount timing",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/fb41e8b0d9150e3a4e10d41686f1f5a969ee339a",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T07:03:18Z",
+      "sha": "f7e10ce",
+      "fullSha": "f7e10cee706000641065594fd13c6065235ae8b5",
+      "subject": "Restore default splitChunks behavior",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/f7e10cee706000641065594fd13c6065235ae8b5",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T07:05:24Z",
+      "sha": "5044ff6",
+      "fullSha": "5044ff629bab7d340a707baa990dd69560951aca",
+      "subject": "Replace InfiniteScroll with IntersectionObserver",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/5044ff629bab7d340a707baa990dd69560951aca",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T07:13:24Z",
+      "sha": "220a609",
+      "fullSha": "220a6093381eb773a55f81973525db32479ec629",
+      "subject": "Use container scrolling for DM detail",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/220a6093381eb773a55f81973525db32479ec629",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T07:13:42Z",
+      "sha": "41719ef",
+      "fullSha": "41719ef384e27720a7206ee0e51e7f7296bb76d4",
+      "subject": "Defer search sentiment dictionary loading until idle time",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/41719ef384e27720a7206ee0e51e7f7296bb76d4",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T07:14:36Z",
+      "sha": "8cab90b",
+      "fullSha": "8cab90bd266e35e9c81a28c472e8699aaac91ffb",
+      "subject": "Use observers for Crok scroll button",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/8cab90bd266e35e9c81a28c472e8699aaac91ffb",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T07:17:31Z",
+      "sha": "047f363",
+      "fullSha": "047f3630623b5f4e2d9aaf2c00b27a0db798bee5",
+      "subject": "Use CSS field sizing for Crok input",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/047f3630623b5f4e2d9aaf2c00b27a0db798bee5",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T07:20:11Z",
+      "sha": "e2b391d",
+      "fullSha": "e2b391dc866f3a414868eaf6d9d10bde8b4078fb",
+      "subject": "Replace small inline styles with Tailwind classes",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/e2b391dc866f3a414868eaf6d9d10bde8b4078fb",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T07:20:23Z",
+      "sha": "0608097",
+      "fullSha": "06080973c415281fbb39a9ee7812478aee30e107",
+      "subject": "Use CSS field sizing for DM input",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/06080973c415281fbb39a9ee7812478aee30e107",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T07:20:33Z",
+      "sha": "b1d6e81",
+      "fullSha": "b1d6e8189353b3d818cfda044f5a7ac1f0917f4c",
+      "subject": "Improve media delivery and defer heavy client code",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/b1d6e8189353b3d818cfda044f5a7ac1f0917f4c",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T07:28:50Z",
+      "sha": "907909c",
+      "fullSha": "907909cb2178750badc04a4da56706d8f3f98ce4",
+      "subject": "一旦 test12が通るように安定作",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/907909cb2178750badc04a4da56706d8f3f98ce4",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T07:35:18Z",
+      "sha": "2ee1f98",
+      "fullSha": "2ee1f9898ad15240db7e7e2cf1c3df491015c760",
+      "subject": "Isolate gzip fetch path from home route bundle.",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/2ee1f9898ad15240db7e7e2cf1c3df491015c760",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T07:53:53Z",
+      "sha": "5c1b3b3",
+      "fullSha": "5c1b3b3dbee3c2cd899661592d7887364f343b17",
+      "subject": "Defer sound waveform computation to viewport visibility and optimize peak calculation",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/5c1b3b3dbee3c2cd899661592d7887364f343b17",
+      "scoreContext": null,
+      "rankContext": null
+    },
+    {
+      "at": "2026-03-20T07:57:28Z",
+      "sha": "9c5f378",
+      "fullSha": "9c5f378b6bc444c4e3b0204defb18dfe5b3e4969",
+      "subject": "Add post-implementation report for sound waveform deferral",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/9c5f378b6bc444c4e3b0204defb18dfe5b3e4969",
+      "scoreContext": 228.8,
+      "rankContext": 56
+    },
+    {
+      "at": "2026-03-20T08:09:58Z",
+      "sha": "166cd22",
+      "fullSha": "166cd229e4da74d9073f63f4530e744b03b407e3",
+      "subject": "Add public media recompression workflow",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/166cd229e4da74d9073f63f4530e744b03b407e3",
+      "scoreContext": 228.8,
+      "rankContext": 56
+    },
+    {
+      "at": "2026-03-20T08:13:54Z",
+      "sha": "06d237c",
+      "fullSha": "06d237cacd1b193cd44015d125fcb28b41e57cb4",
+      "subject": "Add AVIF variants for large timeline images",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/06d237cacd1b193cd44015d125fcb28b41e57cb4",
+      "scoreContext": 228.8,
+      "rankContext": 56
+    },
+    {
+      "at": "2026-03-20T08:22:15Z",
+      "sha": "7e3d424",
+      "fullSha": "7e3d424f32f2c7ca4a49fd5b059974512f0fad38",
+      "subject": "perf: react-syntax-highlighter を light ビルドに変更し必要言語のみ登録",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/7e3d424f32f2c7ca4a49fd5b059974512f0fad38",
+      "scoreContext": 228.8,
+      "rankContext": 56
+    },
+    {
+      "at": "2026-03-20T08:23:15Z",
+      "sha": "b6b9c4d",
+      "fullSha": "b6b9c4d35908a5927733e5eb54eb84eb38bb6a15",
+      "subject": "perf: standardized-audio-context ポリフィルを削除しネイティブ AudioContext を使用",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/b6b9c4d35908a5927733e5eb54eb84eb38bb6a15",
+      "scoreContext": 228.8,
+      "rankContext": 56
+    },
+    {
+      "at": "2026-03-20T08:24:47Z",
+      "sha": "efed2ef",
+      "fullSha": "efed2ef0f450e91eabfbc7eb4583dd5da07150ef",
+      "subject": "perf: lodash をネイティブ JS メソッドに置換",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/efed2ef0f450e91eabfbc7eb4583dd5da07150ef",
+      "scoreContext": 228.8,
+      "rankContext": 56
+    },
+    {
+      "at": "2026-03-20T08:25:42Z",
+      "sha": "bcc3668",
+      "fullSha": "bcc3668a50c12724b8823d67a3fa4ee59e3e5f6d",
+      "subject": "perf: pako を CompressionStream API に置換",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/bcc3668a50c12724b8823d67a3fa4ee59e3e5f6d",
+      "scoreContext": 228.8,
+      "rankContext": 56
+    },
+    {
+      "at": "2026-03-20T08:27:35Z",
+      "sha": "5520fb7",
+      "fullSha": "5520fb7582adafb892ac4b70b2ce8dad7eb4c9f3",
+      "subject": "perf: bluebird を Native Promise でラップに置換",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/5520fb7582adafb892ac4b70b2ce8dad7eb4c9f3",
+      "scoreContext": 228.8,
+      "rankContext": 56
+    },
+    {
+      "at": "2026-03-20T08:33:06Z",
+      "sha": "653e4a6",
+      "fullSha": "653e4a690f50122fd764d7a902076f242b1f93b6",
+      "subject": "perf: negaposi-analyzer-ja をサーバーサイド API に移行",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/653e4a690f50122fd764d7a902076f242b1f93b6",
+      "scoreContext": 228.8,
+      "rankContext": 56
+    },
+    {
+      "at": "2026-03-20T08:41:28Z",
+      "sha": "53a1571",
+      "fullSha": "53a1571b7d4f36cd048c87d07083794417f651b9",
+      "subject": "perf: @mlc-ai/web-llm をサーバーサイド翻訳 API に移行",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/53a1571b7d4f36cd048c87d07083794417f651b9",
+      "scoreContext": 228.8,
+      "rankContext": 56
+    },
+    {
+      "at": "2026-03-20T08:48:24Z",
+      "sha": "ac681dc",
+      "fullSha": "ac681dc61293a68e076dc8930acfe86f29c1cbd3",
+      "subject": "Tighten media compression to safe floor",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/ac681dc61293a68e076dc8930acfe86f29c1cbd3",
+      "scoreContext": 665.05,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T09:11:56Z",
+      "sha": "df7b671",
+      "fullSha": "df7b67102b4dc72b812f982f2ec0bc4da07cf80f",
+      "subject": "Fix CLS by matching Suspense fallback height and adding min-h-screen to main",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/df7b67102b4dc72b812f982f2ec0bc4da07cf80f",
+      "scoreContext": 665.05,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T09:15:34Z",
+      "sha": "010fa07",
+      "fullSha": "010fa07197ea75d24014b461226801e964b4c8de",
+      "subject": "chore: 未使用の Buffer polyfill ProvidePlugin を削除",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/010fa07197ea75d24014b461226801e964b4c8de",
+      "scoreContext": 665.05,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T09:34:46Z",
+      "sha": "582174b",
+      "fullSha": "582174bd98ab118381170d1237461ebd0926d9e0",
+      "subject": "perf: react-helmet を document.title に置換 (-11 KiB)",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/582174bd98ab118381170d1237461ebd0926d9e0",
+      "scoreContext": 665.05,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T09:35:29Z",
+      "sha": "220ea85",
+      "fullSha": "220ea858041ae868307d6e6597e1613b5b6259da",
+      "subject": "perf: CLS/LCP 改善とアクセシビリティ向上",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/220ea858041ae868307d6e6597e1613b5b6259da",
+      "scoreContext": 665.05,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T10:24:21Z",
+      "sha": "a2d6a5b",
+      "fullSha": "a2d6a5b71db6bee560f0913bed3ad0c8b47e6269",
+      "subject": "Optimize DM list/detail payloads",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/a2d6a5b71db6bee560f0913bed3ad0c8b47e6269",
+      "scoreContext": 640.5,
+      "rankContext": 6
+    },
+    {
+      "at": "2026-03-20T10:36:54Z",
+      "sha": "1950220",
+      "fullSha": "1950220559972409453f04a3fa434dfc7eeb6811",
+      "subject": "Add lightweight profile avatar variants",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/1950220559972409453f04a3fa434dfc7eeb6811",
+      "scoreContext": 640.5,
+      "rankContext": 6
+    },
+    {
+      "at": "2026-03-20T11:27:16Z",
+      "sha": "27b5d0f",
+      "fullSha": "27b5d0f313b855bc18b630374de55e50f6e0f49f",
+      "subject": "Fix all 4 failing user flow tests (ReDoS, DM typing, WAV metadata)",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/27b5d0f313b855bc18b630374de55e50f6e0f49f",
+      "scoreContext": 640.5,
+      "rankContext": 6
+    },
+    {
+      "at": "2026-03-20T12:11:34Z",
+      "sha": "a1cd4bb",
+      "fullSha": "a1cd4bbe9132b5667328d82f2d1397b145e4700c",
+      "subject": "Crok AI: remove key={content} from Markdown to avoid full remount on SSE",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/a1cd4bbe9132b5667328d82f2d1397b145e4700c",
+      "scoreContext": 640.5,
+      "rankContext": 6
+    },
+    {
+      "at": "2026-03-20T12:18:42Z",
+      "sha": "cba76da",
+      "fullSha": "cba76da91f3358fa3c5561fb433119ec210894ae",
+      "subject": "Add timeline skeleton placeholders to reduce home page CLS",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/cba76da91f3358fa3c5561fb433119ec210894ae",
+      "scoreContext": 640.5,
+      "rankContext": 6
+    },
+    {
+      "at": "2026-03-20T12:29:43Z",
+      "sha": "97db3b9",
+      "fullSha": "97db3b9e11509f7969ce8444d5dac00696a1e19f",
+      "subject": "Lazy-load AuthModalPage content inside AuthModalContainer",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/97db3b9e11509f7969ce8444d5dac00696a1e19f",
+      "scoreContext": 640.5,
+      "rankContext": 6
+    },
+    {
+      "at": "2026-03-20T12:33:20Z",
+      "sha": "f61c38b",
+      "fullSha": "f61c38b580423aef69a5ef2a899fd6447b5b927f",
+      "subject": "Add content-visibility:auto to DM message items for paint optimization",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/f61c38b580423aef69a5ef2a899fd6447b5b927f",
+      "scoreContext": 640.5,
+      "rankContext": 6
+    },
+    {
+      "at": "2026-03-20T12:41:05Z",
+      "sha": "8556fe0",
+      "fullSha": "8556fe053abfab82fc467e64e18229c7076747d7",
+      "subject": "Split initial vendor code into separate chunk for parallel download",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/8556fe053abfab82fc467e64e18229c7076747d7",
+      "scoreContext": 640.5,
+      "rankContext": 6
+    },
+    {
+      "at": "2026-03-20T14:53:56Z",
+      "sha": "db06ed0",
+      "fullSha": "db06ed01d43e1253f3eee572ee12c51b25bcda8f",
+      "subject": "Prioritize post detail hero image",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/db06ed01d43e1253f3eee572ee12c51b25bcda8f",
+      "scoreContext": 640.5,
+      "rankContext": 6
+    },
+    {
+      "at": "2026-03-20T15:20:24Z",
+      "sha": "dce29ef",
+      "fullSha": "dce29efdbc24c1d8b1e2718c39c2e83a5eb64800",
+      "subject": "add actions to copy other repository",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/dce29efdbc24c1d8b1e2718c39c2e83a5eb64800",
+      "scoreContext": 805.95,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T15:24:43Z",
+      "sha": "aa0a810",
+      "fullSha": "aa0a81009226f59b2b4885dcc99ee8185a9bb558",
+      "subject": "Fix dev repo sync to use PAT auth",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/aa0a81009226f59b2b4885dcc99ee8185a9bb558",
+      "scoreContext": 805.95,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T15:32:55Z",
+      "sha": "23bc288",
+      "fullSha": "23bc2882d9da7e06c19c6d39e49146e7a5735966",
+      "subject": "changed PAT_TOKEN",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/23bc2882d9da7e06c19c6d39e49146e7a5735966",
+      "scoreContext": 805.95,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T16:08:22Z",
+      "sha": "3ac37bc",
+      "fullSha": "3ac37bc1b7a75465f6b99de5f0686b6ce5538a99",
+      "subject": "Improve terms font loading",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/3ac37bc1b7a75465f6b99de5f0686b6ce5538a99",
+      "scoreContext": 805.95,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T16:09:29Z",
+      "sha": "d486e53",
+      "fullSha": "d486e53ec170d3dc578c79aae5b6df99b2956367",
+      "subject": "Reduce home startup work",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/d486e53ec170d3dc578c79aae5b6df99b2956367",
+      "scoreContext": 805.95,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T16:10:44Z",
+      "sha": "662e40a",
+      "fullSha": "662e40aca52af79dab9555e8626cda2730b07a03",
+      "subject": "Avoid heavy Crok markdown during streaming",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/662e40aca52af79dab9555e8626cda2730b07a03",
+      "scoreContext": 805.95,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T16:11:49Z",
+      "sha": "fe46b0a",
+      "fullSha": "fe46b0a9bb676c852ff7d3855b2f10eb76a7d5af",
+      "subject": "Bootstrap post detail direct opens",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/fe46b0a9bb676c852ff7d3855b2f10eb76a7d5af",
+      "scoreContext": 805.95,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T16:16:05Z",
+      "sha": "514c875",
+      "fullSha": "514c8759539545abec27de7c07e9ef584ceafca8",
+      "subject": "Harden audio post uploads",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/514c8759539545abec27de7c07e9ef584ceafca8",
+      "scoreContext": 805.95,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T16:22:04Z",
+      "sha": "ad80eee",
+      "fullSha": "ad80eee4cd0b5e7c4d8c8a0df759b17d5f2700df",
+      "subject": "Speed up Crok SSE streaming",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/ad80eee4cd0b5e7c4d8c8a0df759b17d5f2700df",
+      "scoreContext": 805.95,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T16:43:58Z",
+      "sha": "6b94bd2",
+      "fullSha": "6b94bd2a70da3cbd8442e3d0010ceed114acc765",
+      "subject": "Optimize home payload and avatar loading",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/6b94bd2a70da3cbd8442e3d0010ceed114acc765",
+      "scoreContext": 802.55,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T16:45:45Z",
+      "sha": "c0063e4",
+      "fullSha": "c0063e4da3240dff78a8cf0a9556c68b2c5eb33b",
+      "subject": "Improve post detail loading fallback",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/c0063e4da3240dff78a8cf0a9556c68b2c5eb33b",
+      "scoreContext": 802.55,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T16:49:07Z",
+      "sha": "d6c49df",
+      "fullSha": "d6c49df30ad467736665e6c919590adfecc02a5c",
+      "subject": "Add static /terms HTML generation",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/d6c49df30ad467736665e6c919590adfecc02a5c",
+      "scoreContext": 802.55,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T16:51:08Z",
+      "sha": "57f96e2",
+      "fullSha": "57f96e2492afc51646b59fdefbe23d3ca63e4b00",
+      "subject": "Add lightweight /terms entry",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/57f96e2492afc51646b59fdefbe23d3ca63e4b00",
+      "scoreContext": 802.55,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T16:59:32Z",
+      "sha": "e13dbd8",
+      "fullSha": "e13dbd89b9aa37c87e70e18b366561ebcf2f71bf",
+      "subject": "fix dm flow realtime sync",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/e13dbd89b9aa37c87e70e18b366561ebcf2f71bf",
+      "scoreContext": 802.55,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T17:03:35Z",
+      "sha": "14793be",
+      "fullSha": "14793bedf69cdff85bf33b3523c24e95db206f35",
+      "subject": "speed up post detail after submit",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/14793bedf69cdff85bf33b3523c24e95db206f35",
+      "scoreContext": 802.55,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T17:14:41Z",
+      "sha": "74bef18",
+      "fullSha": "74bef18616600206fb436d2620a758ce44665570",
+      "subject": "Use thumb image preload for post detail LCP",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/74bef18616600206fb436d2620a758ce44665570",
+      "scoreContext": 802.55,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T17:16:14Z",
+      "sha": "dc64705",
+      "fullSha": "dc647052b8cbf6349a6aebf6b7dca89cdf258f6f",
+      "subject": "defer heavy crok markdown rendering",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/dc647052b8cbf6349a6aebf6b7dca89cdf258f6f",
+      "scoreContext": 802.55,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T17:17:06Z",
+      "sha": "09dd282",
+      "fullSha": "09dd282a57e6ebf6f746461b5fd81844816c801b",
+      "subject": "fix: resolve TypeScript compilation errors in server and client",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/09dd282a57e6ebf6f746461b5fd81844816c801b",
+      "scoreContext": 802.55,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T18:09:00Z",
+      "sha": "e47bb07",
+      "fullSha": "e47bb07e8dbe13a5265ac2392683b915a023d379",
+      "subject": "perf: DM送信とCrok描画を軽量化し検索と初期化の待ちを削減",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/e47bb07e8dbe13a5265ac2392683b915a023d379",
+      "scoreContext": 921.35,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T18:18:32Z",
+      "sha": "c508951",
+      "fullSha": "c50895123ce4fb04bfb8d4696f939cc2b69a192b",
+      "subject": "Improve home preload and timeline prefetch",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/c50895123ce4fb04bfb8d4696f939cc2b69a192b",
+      "scoreContext": 921.35,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T18:41:46Z",
+      "sha": "611b117",
+      "fullSha": "611b117a9097fa8a48b645204ca6162de430c09d",
+      "subject": "Make terms page fully static",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/611b117a9097fa8a48b645204ca6162de430c09d",
+      "scoreContext": 921.35,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T18:43:40Z",
+      "sha": "4f6e058",
+      "fullSha": "4f6e058a4b5fadaf92b6e8bd759a5a816bbf8e17",
+      "subject": "Generate terms HTML before server start",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/4f6e058a4b5fadaf92b6e8bd759a5a816bbf8e17",
+      "scoreContext": 921.35,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T19:42:18Z",
+      "sha": "1e1e74e",
+      "fullSha": "1e1e74e14de1ab9355d1615033396a64bc5a1f7f",
+      "subject": "Prefetch search container on search route",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/1e1e74e14de1ab9355d1615033396a64bc5a1f7f",
+      "scoreContext": 921.35,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T19:48:40Z",
+      "sha": "926e9ea",
+      "fullSha": "926e9eae0530aa7a5531ab7a7a7bd8fb95f99e93",
+      "subject": "Remove standalone terms bundle",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/926e9eae0530aa7a5531ab7a7a7bd8fb95f99e93",
+      "scoreContext": 921.35,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T19:51:19Z",
+      "sha": "4b34ead",
+      "fullSha": "4b34ead227aa1b3950f0e3e369659f05623dec73",
+      "subject": "Precompute sound waveforms on the server",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/4b34ead227aa1b3950f0e3e369659f05623dec73",
+      "scoreContext": 921.35,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T21:10:36Z",
+      "sha": "b7d5d90",
+      "fullSha": "b7d5d90d335860eba995988751f830dd2e31960c",
+      "subject": "move migrate to docker",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/b7d5d90d335860eba995988751f830dd2e31960c",
+      "scoreContext": 921.35,
+      "rankContext": 1
+    },
+    {
+      "at": "2026-03-20T22:14:52Z",
+      "sha": "3028b56",
+      "fullSha": "3028b560335b7be7790e7550dece1c601deffc9c",
+      "subject": "Optimize DM API payloads",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/3028b560335b7be7790e7550dece1c601deffc9c",
+      "scoreContext": 902.1,
+      "rankContext": 2
+    },
+    {
+      "at": "2026-03-20T23:51:58Z",
+      "sha": "c2a8a66",
+      "fullSha": "c2a8a66713c5a33118c91ec1e70d545fdd7d23b2",
+      "subject": "Optimize Crok suggestions",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/c2a8a66713c5a33118c91ec1e70d545fdd7d23b2",
+      "scoreContext": 902.1,
+      "rankContext": 2
+    },
+    {
+      "at": "2026-03-21T00:40:49Z",
+      "sha": "592fe71",
+      "fullSha": "592fe71fc19c251c3553e414c38eb4d1dab2ecb2",
+      "subject": "Eagerly load search route",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/592fe71fc19c251c3553e414c38eb4d1dab2ecb2",
+      "scoreContext": 902.1,
+      "rankContext": 2
+    },
+    {
+      "at": "2026-03-21T00:41:10Z",
+      "sha": "1a92b18",
+      "fullSha": "1a92b183c6dda71df53ef4445cddb1e161508560",
+      "subject": "Add partial static rendering for terms page",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/1a92b183c6dda71df53ef4445cddb1e161508560",
+      "scoreContext": 902.1,
+      "rankContext": 2
+    },
+    {
+      "at": "2026-03-21T00:41:28Z",
+      "sha": "2bf47f7",
+      "fullSha": "2bf47f7d594dab33be824564b781c6ad4500e0f8",
+      "subject": "Reduce initial home timeline payload to eight posts",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/2bf47f7d594dab33be824564b781c6ad4500e0f8",
+      "scoreContext": 902.1,
+      "rankContext": 2
+    },
+    {
+      "at": "2026-03-21T00:59:22Z",
+      "sha": "9a706f2",
+      "fullSha": "9a706f2c9bc3fc49c21015b37e9a10a12638c39e",
+      "subject": "lazyやめる",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/9a706f2c9bc3fc49c21015b37e9a10a12638c39e",
+      "scoreContext": 902.1,
+      "rankContext": 2
+    },
+    {
+      "at": "2026-03-21T01:00:41Z",
+      "sha": "945a390",
+      "fullSha": "945a390269f7dd6a9fc0a4925884ca6627e1913c",
+      "subject": "debug,index",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/945a390269f7dd6a9fc0a4925884ca6627e1913c",
+      "scoreContext": 902.1,
+      "rankContext": 2
+    },
+    {
+      "at": "2026-03-21T02:55:38Z",
+      "sha": "530ee95",
+      "fullSha": "530ee95302c0d8cdd43edd4f521cfe9be2f7b674",
+      "subject": "perf: bootstrap scoring pages from server-seeded html",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/530ee95302c0d8cdd43edd4f521cfe9be2f7b674",
+      "scoreContext": 902.1,
+      "rankContext": 2
+    },
+    {
+      "at": "2026-03-21T03:19:40Z",
+      "sha": "5ddc294",
+      "fullSha": "5ddc2947d316c0dfa04477f3a81d8abc21e3e346",
+      "subject": "Improve post page scoring stability",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/5ddc2947d316c0dfa04477f3a81d8abc21e3e346",
+      "scoreContext": 902.1,
+      "rankContext": 2
+    },
+    {
+      "at": "2026-03-21T03:19:43Z",
+      "sha": "799b985",
+      "fullSha": "799b98561fe87dea5e11f884a3efc1014efcd0ca",
+      "subject": "Make sound posts finish before waveform work",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/799b98561fe87dea5e11f884a3efc1014efcd0ca",
+      "scoreContext": 902.1,
+      "rankContext": 2
+    },
+    {
+      "at": "2026-03-21T04:26:16Z",
+      "sha": "7708371",
+      "fullSha": "7708371befbb3a1643a433787bf0c25f1d016075",
+      "subject": "spit crok, test, sequelize",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/7708371befbb3a1643a433787bf0c25f1d016075",
+      "scoreContext": 902.1,
+      "rankContext": 2
+    },
+    {
+      "at": "2026-03-21T04:54:42Z",
+      "sha": "0639b63",
+      "fullSha": "0639b6331acc63b45b7a2f93eeea28805a6919f3",
+      "subject": "Update local startup flow and preload assets",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/0639b6331acc63b45b7a2f93eeea28805a6919f3",
+      "scoreContext": 889.1,
+      "rankContext": 3
+    },
+    {
+      "at": "2026-03-21T05:01:11Z",
+      "sha": "bad9004",
+      "fullSha": "bad9004ac1f608b9797d664154b0635c57c419c0",
+      "subject": "changed dockerfile",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/bad9004ac1f608b9797d664154b0635c57c419c0",
+      "scoreContext": 889.1,
+      "rankContext": 3
+    },
+    {
+      "at": "2026-03-21T05:05:25Z",
+      "sha": "f85058e",
+      "fullSha": "f85058eaa109074e68d69b5b962656a068b988a7",
+      "subject": "move migrate to docker",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/f85058eaa109074e68d69b5b962656a068b988a7",
+      "scoreContext": 798.45,
+      "rankContext": 17
+    },
+    {
+      "at": "2026-03-21T07:45:00Z",
+      "sha": "3ced10f",
+      "fullSha": "3ced10fc5c5b11a046488ce75b419d236f55b19e",
+      "subject": "feat: move translation to google cloud api",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/3ced10fc5c5b11a046488ce75b419d236f55b19e",
+      "scoreContext": 844.85,
+      "rankContext": 13
+    },
+    {
+      "at": "2026-03-21T08:44:02Z",
+      "sha": "26b4bd9",
+      "fullSha": "26b4bd9a21aafe219b4f6425931699460cd8c656",
+      "subject": " last fix all",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/26b4bd9a21aafe219b4f6425931699460cd8c656",
+      "scoreContext": 844.85,
+      "rankContext": 13
+    },
+    {
+      "at": "2026-03-21T09:09:06Z",
+      "sha": "9682bb1",
+      "fullSha": "9682bb15a51ca1a694a6a27d015466205fa8b6ea",
+      "subject": "利用規約フォントの配信を軽量化する",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/9682bb15a51ca1a694a6a27d015466205fa8b6ea",
+      "scoreContext": 892.85,
+      "rankContext": 9
+    },
+    {
+      "at": "2026-03-21T09:15:04Z",
+      "sha": "14ba47d",
+      "fullSha": "14ba47d643d9ab5db64ed78c2ced33c1d5658944",
+      "subject": "final",
+      "url": "https://github.com/shimaf4979/web-speed-hackathon-2026/commit/14ba47d643d9ab5db64ed78c2ced33c1d5658944",
+      "scoreContext": 892.85,
+      "rankContext": 9
+    }
+  ]
+}

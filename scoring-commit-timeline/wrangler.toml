@@ -1,0 +1,3 @@
+name = "scoring-commit-timeline"
+compatibility_date = "2025-03-01"
+compatibility_flags = ["nodejs_als"]

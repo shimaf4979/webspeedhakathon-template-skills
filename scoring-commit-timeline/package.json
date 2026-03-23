@@ -1,0 +1,27 @@
+{
+  "name": "scoring-commit-timeline",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev --port 3939",
+    "build": "vite build",
+    "start": "vite preview --port 3939",
+    "deploy": "vite build && wrangler pages deploy .svelte-kit/cloudflare --project-name=scoring-commit-timeline",
+    "lint": "oxlint . && node scripts/assert-max-lines.mjs"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@sveltejs/adapter-cloudflare": "^7.2.0",
+    "@sveltejs/kit": "^2.15.2",
+    "@sveltejs/vite-plugin-svelte": "^5.0.0",
+    "oxlint": "^1.56.0",
+    "svelte": "^5.28.0",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.0",
+    "wrangler": "^4.0.0"
+  },
+  "dependencies": {
+    "chart.js": "^4.4.6"
+  }
+}
